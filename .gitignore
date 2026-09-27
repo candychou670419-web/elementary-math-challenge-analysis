@@ -19,6 +19,8 @@ analyze_*.py
 extract_*.py
 scan_*.py
 generate_*.py
+add_*.py
+update_*.py
 
 # Credentials
 .env
