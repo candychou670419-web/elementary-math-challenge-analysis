@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Gemini / Antigravity
+.gemini/
+.claude/
+*.log
+*.tmp
+
+# Temporary extraction files
+*_analysis.txt
+*_summary.txt
+*_details.txt
+*_catalog.txt
+analyze_*.py
+extract_*.py
+scan_*.py
+generate_*.py
+
+# Credentials
+.env
