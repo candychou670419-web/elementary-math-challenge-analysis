@@ -11,10 +11,7 @@ __pycache__/
 *.tmp
 
 # Temporary extraction files
-*_analysis.txt
-*_summary.txt
-*_details.txt
-*_catalog.txt
+*.txt
 analyze_*.py
 extract_*.py
 scan_*.py
@@ -22,6 +19,10 @@ generate_*.py
 add_*.py
 update_*.py
 build_*.py
+dump_*.py
+check_*.py
+parse_*.py
 
 # Credentials
 .env
+
