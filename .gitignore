@@ -12,6 +12,8 @@ __pycache__/
 
 # Temporary extraction files
 *.txt
+*.json
+!output/units_data.json
 analyze_*.py
 extract_*.py
 scan_*.py
@@ -22,6 +24,14 @@ build_*.py
 dump_*.py
 check_*.py
 parse_*.py
+assemble_*.py
+curate_*.py
+match_*.py
+search_*.py
+verify_*.py
+list_*.py
+candidate_*.py
+inspect_*.py
 
 # Credentials
 .env
